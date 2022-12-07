@@ -1,3 +1,4 @@
 zafran-resolution
 -consisten learning programmimg language
 -create a lot of project
+-to do colabration 
